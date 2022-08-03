@@ -1,3 +1,3 @@
-# anshulbhardwaj
+# Anshul Bhardwaj
 
 https://anshulbhardwaj.netlify.app/
